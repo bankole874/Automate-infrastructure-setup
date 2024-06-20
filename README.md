@@ -39,5 +39,15 @@ Server Configuration Script
 - Create a python file named ```promptUsers.py``` to prompt users to create new files into the existing directories.
 ## Screenshots
 
-![Checking the groups, users created.png](https://github.com/bankole874/Automate-infrastructure-setup/blob/695e7e1031d30fc760a7858ad41c1c4e7703f471/images/Checking%20the%20groups%2C%20users%20created.png)
+
+## Screenshots
+
+![1](https://github.com/bankole874/Automate-infrastructure-setup/blob/695e7e1031d30fc760a7858ad41c1c4e7703f471/images/Checking%20the%20groups%2C%20users%20created.png)
+
+![2](https://github.com/bankole874/Automate-infrastructure-setup/blob/main/images/Checking%20the%20newly%20created%20file.png)
+
+![3](https://github.com/bankole874/Automate-infrastructure-setup/blob/main/images/Committing%20changes%20to%20github.png)
+
+![4](https://github.com/bankole874/Automate-infrastructure-setup/blob/main/images/Listing%20the%20directories%20created.png)
+
 
