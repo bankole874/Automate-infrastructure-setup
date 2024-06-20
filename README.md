@@ -26,6 +26,7 @@ git clone https://github.com/bankole874/Automate-infrastructure-setup.git
 |Ogochukwu, Finance Manager|
 
 - Create a python file named ```createDirectories.py``` to create directories.
+
 | Directories             |
 | ----------------- |
 Finance Budgets
